@@ -1,2 +1,2 @@
 # spelltable-spectate
-Adds UI for already existing spectate feature
+Chrome extension that adds UI for already existing spectate feature
