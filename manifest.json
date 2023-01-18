@@ -1,7 +1,8 @@
 {
     "manifest_version": 3,
-    "name": "spelltable-spectate",
+    "name": "Spelltable Spectator",
     "version": "0.1.0",
+    "description": "This extension adds a button to the pre-game page that takes you to the page that allows you to join the lobby as a spectator",
     "content_scripts": [
         {
             "matches": ["https://spelltable.wizards.com/*"],
