@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "name": "spelltable-spectate",
+    "version": "0.1.0",
+    "content_scripts": [
+        {
+            "matches": ["https://spelltable.wizards.com/*"],
+            "css": ["styles.css"],
+            "js": ["app.js"]
+        }
+    ],
+    "permissions": ["activeTab"]
+}

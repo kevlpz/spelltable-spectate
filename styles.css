@@ -1,0 +1,10 @@
+.spectate {
+    margin: 0 auto;
+    display: inline-block;
+    position: absolute;
+    top: 25%;
+}
+
+#root {
+    text-align: center;
+}
